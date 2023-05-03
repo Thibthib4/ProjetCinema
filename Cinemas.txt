@@ -1,0 +1,2 @@
+Paris;12 rue des Bertilles;20;10;[];[];100
+Antony;12 rue des Bertilles;20;10;[];[];101
